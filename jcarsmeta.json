@@ -1,0 +1,42 @@
+{
+    "format": "json", 
+    "fields": [
+        {
+            "Type": "string", 
+            "Name": "Classification", 
+            "uniquevals": 1
+        }, 
+        {
+            "Type": "string", 
+            "Name": "Colour", 
+            "uniquevals": 5
+        }, 
+        {
+            "max": 89695.0, 
+            "Type": "numeric", 
+            "Name": "Milage", 
+            "min": 26821.0
+        }, 
+        {
+            "Type": "string", 
+            "Name": "Manufacturer", 
+            "uniquevals": 3
+        }, 
+        {
+            "max": 2880.6, 
+            "Type": "numeric", 
+            "Name": "Price", 
+            "min": 912.2
+        }, 
+        {
+            "Type": "string", 
+            "Name": "Size", 
+            "uniquevals": 10
+        }
+    ], 
+    "numrows": 100, 
+    "header": null, 
+    "separator": null, 
+    "numfields": 6, 
+    "infile": "carsdata.json"
+}
