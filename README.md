@@ -13,7 +13,6 @@ where the file param.json contains:
     ‘hasheader’:0,
     ‘separator’:’,’ }
     
-should make the program run and open the file data.csv and write the meta data it calculates to
-metadata.json.
+This would make the program run and open the file data.csv and write the meta data it calculates to metadata.json. Include sample params files CSVcarsparams.json and JSONcarsparams.json. 
 
 Author: Emmanuel Osimosu
