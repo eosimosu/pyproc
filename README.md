@@ -15,3 +15,5 @@ where the file param.json contains:
     
 should make the program run and open the file data.csv and write the meta data it calculates to
 metadata.json.
+
+Author: Emmanuel Osimosu
